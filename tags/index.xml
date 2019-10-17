@@ -1,156 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Special session: Machine Learning in Advanced Machine Vision (AMV2019)</title>
-    <link>https://stevenputtemans.github.io/AMV2019/</link>
-    <description>Recent content on Special session: Machine Learning in Advanced Machine Vision (AMV2019)</description>
+    <title>Tags on Special session: Machine Learning in Advanced Machine Vision (AMV2019)</title>
+    <link>https://stevenputtemans.github.io/AMV2019/tags/</link>
+    <description>Recent content in Tags on Special session: Machine Learning in Advanced Machine Vision (AMV2019)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Nov 2017 12:21:21 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2017 12:04:06 -0500</lastBuildDate>
     
-	<atom:link href="https://stevenputtemans.github.io/AMV2019/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stevenputtemans.github.io/AMV2019/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Photography</title>
-      <link>https://stevenputtemans.github.io/AMV2019/projects/photography/</link>
-      <pubDate>Mon, 13 Nov 2017 12:21:21 -0500</pubDate>
-      
-      <guid>https://stevenputtemans.github.io/AMV2019/projects/photography/</guid>
-      <description>Sometimes I take pictures. This project is about the pictures I take. Sometimes, they are pictures of cats.</description>
-    </item>
     
     <item>
-      <title>Design</title>
-      <link>https://stevenputtemans.github.io/AMV2019/projects/design/</link>
-      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
-      
-      <guid>https://stevenputtemans.github.io/AMV2019/projects/design/</guid>
-      <description>This theme was designed by Vicky Lai. Go on, explore! 💪
-If you want to use it for your website, check out the section at the bottom of the main page. 👍</description>
-    </item>
-    
-    <item>
-      <title>Writing</title>
-      <link>https://stevenputtemans.github.io/AMV2019/projects/writing/</link>
-      <pubDate>Mon, 13 Nov 2017 12:21:11 -0500</pubDate>
-      
-      <guid>https://stevenputtemans.github.io/AMV2019/projects/writing/</guid>
-      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.
-To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon froth. Aged, eu, cup, brewed aroma kopi-luwak, coffee, id viennese french press brewed grounds acerbic froth. Decaffeinated acerbic, spoon beans seasonal, french press café au lait mazagran roast chicory, pumpkin spice galão as fair trade, dark irish cup ristretto half and half whipped shop.</description>
-    </item>
-    
-    <item>
-      <title>Hipster Ipsum</title>
-      <link>https://stevenputtemans.github.io/AMV2019/blog/hipster-ipsum/</link>
-      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
-      
-      <guid>https://stevenputtemans.github.io/AMV2019/blog/hipster-ipsum/</guid>
-      <description>Occupy mlkshk kale chips woke, listicle locavore next level fingerstache glossier aesthetic man braid before they sold out kitsch prism. Cred copper mug freegan, flannel YOLO single-origin coffee skateboard artisan four loko church-key man bun. Synth literally gastropub, kombucha chillwave helvetica offal truffaut church-key freegan pop-up gentrify narwhal. Kombucha viral vexillologist green juice. Slow-carb hoodie mumblecore tumeric tattooed meditation, lo-fi fap cred affogato forage whatever austin. Shabby chic direct trade migas, brunch gochujang sriracha chambray fanny pack 8-bit mustache letterpress.</description>
-    </item>
-    
-    <item>
-      <title>Startup Ipsum</title>
-      <link>https://stevenputtemans.github.io/AMV2019/blog/startup-ipsum/</link>
+      <title>Code</title>
+      <link>https://stevenputtemans.github.io/AMV2019/tags/code/</link>
       <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
       
-      <guid>https://stevenputtemans.github.io/AMV2019/blog/startup-ipsum/</guid>
-      <description>SpaceTeam affordances quantitative vs. qualitative SpaceTeam physical computing earned media thinker-maker-doer pair programming. Bootstrapping pitch deck physical computing driven cortado human-centered design innovate human-centered design driven. Grok pitch deck fund pitch deck sticky note affordances minimum viable product integrate paradigm viral iterate. Driven fund thought leader personas workflow SpaceTeam viral pair programming physical computing intuitive 360 campaign latte bootstrapping minimum viable product. Bootstrapping physical computing responsive pitch deck SpaceTeam parallax long shadow pitch deck bootstrapping ideate.</description>
+      <guid>https://stevenputtemans.github.io/AMV2019/tags/code/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Coffee Ipsum</title>
-      <link>https://stevenputtemans.github.io/AMV2019/blog/coffee-ipsum/</link>
+      <title>Coffee</title>
+      <link>https://stevenputtemans.github.io/AMV2019/tags/coffee/</link>
       <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       
-      <guid>https://stevenputtemans.github.io/AMV2019/blog/coffee-ipsum/</guid>
-      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong. Americano caffeine white, con panna saucer sit, con panna eu, carajillo aftertaste kopi-luwak, body aftertaste cup single origin café au lait saucer. Macchiato java sweet arabica, turkish cup, eu flavour mug extraction white cortado saucer est white brewed instant, rich, barista breve cappuccino barista organic.</description>
+      <guid>https://stevenputtemans.github.io/AMV2019/tags/coffee/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Call For Papers</title>
-      <link>https://stevenputtemans.github.io/AMV2019/cfp/</link>
-      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
+      <title>Images</title>
+      <link>https://stevenputtemans.github.io/AMV2019/tags/images/</link>
+      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       
-      <guid>https://stevenputtemans.github.io/AMV2019/cfp/</guid>
-      <description>Please find a pdf version of this call for papers by clicking here
-The ambition of this full-day AMV2019 special session is to bring together practitioners and researchers from different disciplines related to Advanced Machine Vision to share ideas and methods on current and future use of computer vision and machine learning algorithms in real-life and industrially relevant systems. This field raises the need of applied research that focusses on the technology transfer from academics towards practitioners, yielding several challenges like top-notch accuracies, real-time processing, minimal training data, minimal manual input, user-friendly interfaces, &amp;hellip;</description>
+      <guid>https://stevenputtemans.github.io/AMV2019/tags/images/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Home</title>
-      <link>https://stevenputtemans.github.io/AMV2019/home/</link>
-      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
+      <title>Ipsum</title>
+      <link>https://stevenputtemans.github.io/AMV2019/tags/ipsum/</link>
+      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
-      <guid>https://stevenputtemans.github.io/AMV2019/home/</guid>
-      <description>We are proud to present a special session on Machine learning in Advanced Machine Vision (AMV2019). This special session is organized in conjunction with ICMLA2019 and taking place in Boca Raton, Florida, USA. Oral presentations will be scheduled on Thursday the 19th of December 2019 (TBC) while poster presentations for this special session will be organized on Wednesday the 18th of December 2019 (TBC).
-A large variety of industrially oriented applications (e.</description>
+      <guid>https://stevenputtemans.github.io/AMV2019/tags/ipsum/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Important Dates</title>
-      <link>https://stevenputtemans.github.io/AMV2019/dates/</link>
-      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
+      <title>Words</title>
+      <link>https://stevenputtemans.github.io/AMV2019/tags/words/</link>
+      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
-      <guid>https://stevenputtemans.github.io/AMV2019/dates/</guid>
-      <description> Paper submission deadline: September 7, 2019 (11:59 Pacific Time) - FIRM deadline Notification of acceptance + reviews available: October 7, 2019 Camera-ready papers &amp;amp; pre-registration deadline: October 17, 2019 The ICMLA conference: December 16-19, 2019  </description>
-    </item>
-    
-    <item>
-      <title>People</title>
-      <link>https://stevenputtemans.github.io/AMV2019/people/</link>
-      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
-      
-      <guid>https://stevenputtemans.github.io/AMV2019/people/</guid>
-      <description>Workshop Organizers  Thomas B. Moeslund
-Professor
-Visual Analysis of People LabAalborg University
-Denmark
-Website: click here   Rikke Gade
-Assistant ProfessorVisual Analysis of People LabAalborg University
-Denmark
-Website: click here    Toon Goedeme
-Professor
-EAVISE Research GroupKU Leuven
-Belgium
-Website: click here   Steven Puttemans
-Post-doctoral researcher
-EAVISE Research GroupKU Leuven
-Belgium
-Website: click here    Ajmal Mian
-Professor
-School of Physics, Mathematics &amp; Computing, The University of Western Australia</description>
-    </item>
-    
-    <item>
-      <title>Previous</title>
-      <link>https://stevenputtemans.github.io/AMV2019/previous/</link>
-      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
-      
-      <guid>https://stevenputtemans.github.io/AMV2019/previous/</guid>
-      <description>The Advanced Machine Vision (AMV) workshop/special session has been running for it&amp;rsquo;s second year now. Below you can find an overview of the previous editions of this workshop / special session.
- AMV2018 at ACCV2018 in Perth, Australia. Website: click here.  </description>
-    </item>
-    
-    <item>
-      <title>Program</title>
-      <link>https://stevenputtemans.github.io/AMV2019/program/</link>
-      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
-      
-      <guid>https://stevenputtemans.github.io/AMV2019/program/</guid>
-      <description>As a special session we will have 2 invited speakers that will talk about the challenges in advanced machine vision applications.
-Invited speakers 1) Fatih Porikli Talk title Biography  Fatih Porikli has received his Ph.D. from New York University (NYU) in 2002. He is an IEEE Fellow and a Professor in the Research School of Engineering, Australian National University (ANU). He is also serving as the Technical Vice President at Futurewei Device &amp; Hardware in San Diego.</description>
-    </item>
-    
-    <item>
-      <title>Submission</title>
-      <link>https://stevenputtemans.github.io/AMV2019/submission/</link>
-      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
-      
-      <guid>https://stevenputtemans.github.io/AMV2019/submission/</guid>
-      <description>Authors are encouraged to submit high-quality, original (i.e. not been previously published or accepted for publication in substantially similar form in any peer-reviewed venue including journal, conference or workshop) research.
-Papers submitted for reviewing should be conform to IEEE specifications. Manuscript templates can be downloaded from the IEEE website.
-Papers are limited to 8 pages. All the papers will go through double-blind peer review process. Authors names and affiliations should not appear in the submitted paper.</description>
+      <guid>https://stevenputtemans.github.io/AMV2019/tags/words/</guid>
+      <description></description>
     </item>
     
   </channel>
